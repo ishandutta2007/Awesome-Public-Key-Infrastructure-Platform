@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Keyfactor](https://www.keyfactor.com/)**  
-
-  Certificate lifecycle management and PKI platform that combines CLM capabilities with EJBCA as its open-source CA engine; available in SaaS and self-hosted forms.
-
-
-
-- **[Venafi (CyberArk Certificate Manager)](https://www.venafi.com/)**  
-
-  Leading machine identity and certificate lifecycle management platform (now part of CyberArk) for discovering, protecting, and automating certificates at scale.
-
-
-
-- **[Entrust PKI](https://www.entrust.com/)**  
-
-  Enterprise PKI and certificate management solutions for issuing and governing digital certificates and identities.
-
-
-
-- **[DigiCert](https://www.digicert.com/)**  
-
-  Public and private PKI plus Trust Lifecycle Manager for enterprise digital trust and certificate automation.
-
-
-
-- **[PrimeKey EJBCA Enterprise](https://www.keyfactor.com/)**  
-
-  Enterprise edition of the widely deployed EJBCA certificate authority (now part of the Keyfactor ecosystem).
-
-
-
-- **[Microsoft Active Directory Certificate Services (AD CS)](https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/)**  
-
-  Microsoft’s on-premises enterprise CA and certificate services tightly integrated with Active Directory environments.
-
-
-
-- **[KeyTalk](https://www.keytalk.com/)**  
-
-  Certificate and PKI-related solutions focused on automated certificate management and delivery.
-
-
-
-- **[AppViewX](https://www.appviewx.com/)**  
-
-  Certificate lifecycle and PKI automation platform focused on visibility, orchestration, and policy-driven management.
-
-
-
-- **[GlobalSign](https://www.globalsign.com/)**  
-
-  Public CA and PKI services providing trusted certificates and related identity solutions.
-
-
-
-- **[Sectigo](https://www.sectigo.com/)**  
-
-  Public and private PKI services along with certificate management offerings for organizations of various sizes.
+| Product | Description | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Keyfactor](https://www.keyfactor.com/)** | Certificate lifecycle management and PKI platform that combines CLM capabilities with EJBCA as its open-source CA engine; available in SaaS and self-hosted forms. | Est. starting at ~£40,250/yr (~$52,000/yr benchmark via G-Cloud listing; enterprise tiers ~$2,000–$10,000/mo) | 30-day free trial ("Test Drive" on AWS/Azure Marketplace) |
+| **[Venafi (CyberArk Certificate Manager)](https://www.venafi.com/)** | Leading machine identity and certificate lifecycle management platform (now part of CyberArk) for discovering, protecting, and automating certificates at scale. | Enterprise tiers starting at ~$1,500–$5,000/mo (~$18,000+/yr benchmark based on deployment volume) | 30-day free trial (Venafi TLS Protect Cloud / CyberArk Certificate Manager SaaS) |
+| **[Entrust PKI](https://www.entrust.com/)** | Enterprise PKI and certificate management solutions for issuing and governing digital certificates and identities. | Managed PKI starting at ~$4,000/yr (test/small envs) up to ~$50,000+/yr for enterprise production | 60-day free trial (Managed PKI 60-day evaluation) |
+| **[DigiCert](https://www.digicert.com/)** | Public and private PKI plus Trust Lifecycle Manager for enterprise digital trust and certificate automation. | Direct OV TLS certs starting at $24–$26/mo ($288/yr); reseller tiers from ~$12.50/mo ($150/yr) | No free-forever plan (30-day money-back guarantee; Test Drive account for PKI testing) |
+| **[PrimeKey EJBCA Enterprise](https://www.keyfactor.com/)** | Enterprise edition of the widely deployed EJBCA certificate authority (now part of the Keyfactor ecosystem). | AWS EC2 hourly pay-as-you-go starting at ~$0.50–$3.00/hr (~$360–$2,160/mo based on instance size) | 30-day free trial (EJBCA Enterprise Cloud 30-day trial on AWS Marketplace) |
+| **[Microsoft Active Directory Certificate Services (AD CS)](https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/)** | Microsoft’s on-premises enterprise CA and certificate services tightly integrated with Active Directory environments (plus Cloud PKI). | Included with Windows Server license (Essentials $501, Standard $1,069); Cloud PKI add-on at $2.00/user/mo | 180-day free trial (Windows Server Evaluation Edition valid for 180 days) / 30-day Intune trial for Cloud PKI |
+| **[KeyTalk](https://www.keytalk.com/)** | Certificate and PKI-related solutions focused on automated certificate management and delivery. | Enterprise starting tier benchmark at ~€10,000/yr (~$11,000/yr for ~1,000 users base deployment) | Custom evaluation / trial license available upon request for Proof of Concept (PoC) |
+| **[AppViewX](https://www.appviewx.com/)** | Certificate lifecycle and PKI automation platform focused on visibility, orchestration, and policy-driven management. | Enterprise tiers starting at ~$1,000–$3,000/mo (~$12,000+/yr base tier) | 30-day free trial (extendable up to 90 days upon request) |
+| **[GlobalSign](https://www.globalsign.com/)** | Public CA and PKI services providing trusted certificates and related identity solutions. | AlphaSSL starting at $12–$49/yr; direct DomainSSL starting at $99–$249/yr | No free-forever plan (7 to 30-day money-back guarantee depending on reseller/product) |
+| **[Sectigo](https://www.sectigo.com/)** | Public and private PKI services along with certificate management offerings for organizations of various sizes. | DV SSL starting at $96–$99/yr direct (~$12/yr via reseller); Sectigo Certificate Manager starting at ~$2,500/yr | 30-day free trial (Sectigo Certificate Manager 30-day evaluation trial) |
 
 
 
