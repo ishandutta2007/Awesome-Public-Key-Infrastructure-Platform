@@ -99,6 +99,9 @@ The open-source PKI ecosystem is exceptionally mature and powers critical intern
 12. **[dogtagpki/pki](https://github.com/dogtagpki/pki)** [![GitHub_Stars](https://img.shields.io/github/stars/dogtagpki/pki?style=social&color=white)](https://github.com/dogtagpki/pki/stargazers)  
     *Red Hat FreeIPA’s enterprise-class open-source CA supporting full certificate lifecycle, OCSP, KRA, and smart card management.*
 
+13. **[Trustpoint-Project/trustpoint](https://github.com/Trustpoint-Project/trustpoint)** [![GitHub_Stars](https://img.shields.io/github/stars/Trustpoint-Project/trustpoint?style=social&color=white)](https://github.com/Trustpoint-Project/trustpoint/stargazers)
+    *Open-source PKI and machine identity management platform for industrial OT environments, supporting certificate lifecycle automation, CA/RA functionality, EST, CMP, SCEP, OPC UA GDS Push, and industrial device integration.*
+
 ---
 
 ## 🛠️ Architecture & Deployment Patterns
